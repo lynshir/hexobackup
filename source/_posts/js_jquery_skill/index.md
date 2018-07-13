@@ -10,7 +10,7 @@ tags:
 - 笔记
 ---
 
->  chrome中的input不要加type="number",有问题,输入负号截取到第一个字符串是空，就默认text就行,若允许负数加上allowMinus类，正数只加limitNumber aaa
+>  chrome中的input不要加type="number",有问题,输入负号截取到第一个字符串是空，就默认text就行,若允许负数加上allowMinus类，正数只加limitNumber 
 
 
 ```js
@@ -65,3 +65,5 @@ $(document).on('keydown', '.limitNumber,.allowMinus', function (e) {
       this.value = fa + str
     })
 ```
+
+> **有什么好的办法记得评论哟！**
