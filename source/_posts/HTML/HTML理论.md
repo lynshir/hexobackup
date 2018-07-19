@@ -1,13 +1,11 @@
 ﻿---
-title: HTML理论篇
+title: HTML理论
 layout: page
 comments: true
 categories: 
 - HTML
 tags:
-- html
-- html理论
-- 笔记
+- HTML理论
 ---
 
 ### **1.http和https**
@@ -19,7 +17,7 @@ tags:
     
     https协议的主要作用是：建立一个信息安全通道，来确保数据的传输，确保网站的真实性。
     
-> * https的SSL加密是在传输层实现的。
+`https的SSL加密是在传输层实现的。`
 
  **（2）http和https的区别？**
  
